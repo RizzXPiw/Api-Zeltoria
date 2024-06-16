@@ -10,8 +10,7 @@
   "keywords": [
     "simple",
     "api",
-    "rest",
-    "api"
+    "rest"
   ],
   "author": "Zeltoria",
   "license": "ISC",
@@ -36,5 +35,5 @@
     "request": "^2.88.2",
     "scraper-jsc": "^0.0.3",
     "ssl-express-www": "^3.0.7"
-  },
+  }
 }
